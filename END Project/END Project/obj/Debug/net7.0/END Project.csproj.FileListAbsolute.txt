@@ -1,0 +1,31 @@
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\bin\Debug\net7.0\appsettings.Development.json
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\bin\Debug\net7.0\appsettings.json
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\bin\Debug\net7.0\END Project.staticwebassets.runtime.json
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\bin\Debug\net7.0\END Project.exe
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\bin\Debug\net7.0\END Project.deps.json
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\bin\Debug\net7.0\END Project.runtimeconfig.json
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\bin\Debug\net7.0\END Project.dll
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\bin\Debug\net7.0\END Project.pdb
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\END Project.csproj.AssemblyReference.cache
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\END Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\END Project.AssemblyInfoInputs.cache
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\END Project.AssemblyInfo.cs
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\END Project.csproj.CoreCompileInputs.cache
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\END Project.MvcApplicationPartsAssemblyInfo.cache
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\END Project.RazorAssemblyInfo.cache
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\END Project.RazorAssemblyInfo.cs
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\staticwebassets\msbuild.END Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\staticwebassets\msbuild.build.END Project.props
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.END Project.props
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.END Project.props
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\staticwebassets.build.json
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\staticwebassets.development.json
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\scopedcss\bundle\END Project.styles.css
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\scopedcss\projectbundle\END Project.bundle.scp.css
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\END Project.dll
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\refint\END Project.dll
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\END Project.pdb
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\END Project.genruntimeconfig.cache
+D:\itbrains\git proyekt\Final-Project\END Project\END Project\obj\Debug\net7.0\ref\END Project.dll

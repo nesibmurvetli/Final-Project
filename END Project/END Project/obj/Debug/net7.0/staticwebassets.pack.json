@@ -1,0 +1,3045 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\END Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\END Project.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\admin\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\a\\css\\admin\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\admin\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\a\\css\\admin\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\admin\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\a\\css\\admin\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\admin\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\a\\css\\admin\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\barRating\\barRating.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\barRating\\barRating.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\calendar2\\pignose.calendar.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\calendar2\\pignose.calendar.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\calendar2\\semantic.ui.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\calendar2\\semantic.ui.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\calendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\calendar\\fullcalendar.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\chartist\\chartist.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\chartist\\chartist.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\data-table\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\data-table\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\data-table\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\data-table\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\data-table\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\data-table\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\datepicker\\bootstrap-datepicker3.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\datepicker\\bootstrap-datepicker3.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\helper.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\helper.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\jsgrid\\jsgrid-theme.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\jsgrid\\jsgrid-theme.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\jsgrid\\jsgrid.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\jsgrid\\jsgrid.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\line-progress\\jquery.lineProgressbar.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\line-progress\\jquery.lineProgressbar.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\lobi-panel\\lobipanel.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\lobi-panel\\lobipanel.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\materialize.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\materialize.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\menubar\\sidebar.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\menubar\\sidebar.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\metismenu\\menu.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\metismenu\\menu.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\mmc-chat.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\mmc-chat.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\nestable\\nestable.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\nestable\\nestable.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\preloader\\pace.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\preloader\\pace.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\rangSlider\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\rangSlider\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\rangSlider\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\rangSlider\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\rangSlider\\ion.rangeSlider.skinHTML5.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\rangSlider\\ion.rangeSlider.skinHTML5.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\rangSlider\\ion.rangeSlider.skinModern.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\rangSlider\\ion.rangeSlider.skinModern.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\rangSlider\\ion.rangeSlider.skinNice.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\rangSlider\\ion.rangeSlider.skinNice.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\rangSlider\\ion.rangeSlider.skinSimple.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\rangSlider\\ion.rangeSlider.skinSimple.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\rangSlider\\normalize.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\rangSlider\\normalize.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\scrollable\\scrollable.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\scrollable\\scrollable.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\sweetalert\\sweetalert.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\sweetalert\\sweetalert.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\themify-icons.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\vector-map\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\vector-map\\jqvmap.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\lib\\weather-icons.css",
+      "PackagePath": "staticwebassets\\a\\css\\lib\\weather-icons.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\css\\style.css",
+      "PackagePath": "staticwebassets\\a\\css\\style.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\1.png",
+      "PackagePath": "staticwebassets\\a\\images\\1.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\2.png",
+      "PackagePath": "staticwebassets\\a\\images\\2.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\3.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\3.png",
+      "PackagePath": "staticwebassets\\a\\images\\3.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\4.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\8.png",
+      "PackagePath": "staticwebassets\\a\\images\\8.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\avatar.png",
+      "PackagePath": "staticwebassets\\a\\images\\avatar.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\avatar\\usa-flag.png",
+      "PackagePath": "staticwebassets\\a\\images\\avatar\\usa-flag.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\bookingSystem\\1.png",
+      "PackagePath": "staticwebassets\\a\\images\\bookingSystem\\1.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\bookingSystem\\2.png",
+      "PackagePath": "staticwebassets\\a\\images\\bookingSystem\\2.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\bookingSystem\\3.png",
+      "PackagePath": "staticwebassets\\a\\images\\bookingSystem\\3.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\bookingSystem\\4.png",
+      "PackagePath": "staticwebassets\\a\\images\\bookingSystem\\4.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\bookingSystem\\5.png",
+      "PackagePath": "staticwebassets\\a\\images\\bookingSystem\\5.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\bookingSystem\\6.png",
+      "PackagePath": "staticwebassets\\a\\images\\bookingSystem\\6.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\bookingSystem\\7.png",
+      "PackagePath": "staticwebassets\\a\\images\\bookingSystem\\7.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\bookingSystem\\8.png",
+      "PackagePath": "staticwebassets\\a\\images\\bookingSystem\\8.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\c1.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\c1.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\c2.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\c2.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\c3.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\c3.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\chat-person-add.png",
+      "PackagePath": "staticwebassets\\a\\images\\chat-person-add.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\close.png",
+      "PackagePath": "staticwebassets\\a\\images\\close.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\fjords.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\fjords.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\hand.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\hand.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\lights.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\lights.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\logo.png",
+      "PackagePath": "staticwebassets\\a\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\maximize.png",
+      "PackagePath": "staticwebassets\\a\\images\\maximize.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\minimize.png",
+      "PackagePath": "staticwebassets\\a\\images\\minimize.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\nature.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\nature.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\newyork.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\newyork.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\paris.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\paris.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\a\\images\\paypal.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\picture.png",
+      "PackagePath": "staticwebassets\\a\\images\\picture.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\preview1.png",
+      "PackagePath": "staticwebassets\\a\\images\\preview1.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\product-2.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\product.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\product.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\product_1\\1.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\product_1\\1.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\product_1\\2.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\product_1\\2.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\product_1\\3.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\product_1\\3.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\product_1\\burger.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\product_1\\burger.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\product_1\\download.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\product_1\\download.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\product_1\\image-10.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\product_1\\image-10.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\product_1\\image-8-226x223.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\product_1\\image-8-226x223.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\product_1\\image-9.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\product_1\\image-9.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\product_1\\images.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\product_1\\images.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\product_1\\pizza2.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\product_1\\pizza2.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\profile-bg.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\profile-bg.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\rangeSliderimg\\sprite-skin-flat.png",
+      "PackagePath": "staticwebassets\\a\\images\\rangeSliderimg\\sprite-skin-flat.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\rangeSliderimg\\sprite-skin-modern.png",
+      "PackagePath": "staticwebassets\\a\\images\\rangeSliderimg\\sprite-skin-modern.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\rangeSliderimg\\sprite-skin-nice.png",
+      "PackagePath": "staticwebassets\\a\\images\\rangeSliderimg\\sprite-skin-nice.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\rangeSliderimg\\sprite-skin-simple.png",
+      "PackagePath": "staticwebassets\\a\\images\\rangeSliderimg\\sprite-skin-simple.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\sanfran.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\sanfran.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\scrollable\\view-1-1200x800.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\scrollable\\view-1-1200x800.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\smile.png",
+      "PackagePath": "staticwebassets\\a\\images\\smile.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\user-1.png",
+      "PackagePath": "staticwebassets\\a\\images\\user-1.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\user-bg.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\user-bg.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\user-female.png",
+      "PackagePath": "staticwebassets\\a\\images\\user-female.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\user-profile.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\user-profile.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\user.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\video-cam.png",
+      "PackagePath": "staticwebassets\\a\\images\\video-cam.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\images\\watch.jpg",
+      "PackagePath": "staticwebassets\\a\\images\\watch.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\dashboard1.js",
+      "PackagePath": "staticwebassets\\a\\js\\dashboard1.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\dashboard2.js",
+      "PackagePath": "staticwebassets\\a\\js\\dashboard2.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\barRating\\barRating.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\barRating\\barRating.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\barRating\\jquery.barrating.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\barRating\\jquery.barrating.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\calendar-2\\moment.latest.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\calendar-2\\moment.latest.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\calendar-2\\pignose.calendar.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\calendar-2\\pignose.calendar.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\calendar-2\\pignose.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\calendar-2\\pignose.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\calendar-2\\prism.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\calendar-2\\prism.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\calendar-2\\semantic.ui.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\calendar-2\\semantic.ui.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\calendar\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\calendar\\fullcalendar-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\calendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\calendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\chart-js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\chart-js\\Chart.bundle.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\chart-js\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\chart-js\\chartjs-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\chartist\\chartist-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\chartist\\chartist-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\chartist\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\chartist\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\chartist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\chartist\\chartist.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\chat-widget\\chat-widget-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\chat-widget\\chat-widget-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\circle-progress\\circle-progress-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\circle-progress\\circle-progress-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\circle-progress\\circle-progress.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\circle-progress\\circle-progress.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\data-table\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\data-table\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\data-table\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\data-table\\buttons.flash.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\data-table\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\data-table\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\data-table\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\data-table\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\data-table\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\data-table\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\data-table\\datatables-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\data-table\\datatables-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\data-table\\datatables.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\data-table\\datatables.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\data-table\\jquery-1.12.4.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\data-table\\jquery-1.12.4.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\data-table\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\data-table\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\data-table\\jszip.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\data-table\\jszip.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\data-table\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\data-table\\pdfmake.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\data-table\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\data-table\\vfs_fonts.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\datamap\\d3.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\datamap\\d3.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\datamap\\datamap-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\datamap\\datamap-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\datamap\\datamaps.world.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\datamap\\datamaps.world.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\datamap\\topojson.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\datamap\\topojson.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\datepicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\datepicker\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\easing\\stepup-form-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\easing\\stepup-form-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\flot-chart\\curvedLines.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\flot-chart\\curvedLines.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\flot-chart\\excanvas.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\flot-chart\\excanvas.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\flot-chart\\flot-chart-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\flot-chart\\flot-chart-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\flot-chart\\flot-tooltip\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\flot-chart\\flot-tooltip\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\flot-chart\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\flot-chart\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\flot-chart\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\flot-chart\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\flot-chart\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\flot-chart\\jquery.flot.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\flot-chart\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\flot-chart\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\flot-chart\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\flot-chart\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\flot-chart\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\flot-chart\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\flot-chart\\jquery.flot.threshold.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\flot-chart\\jquery.flot.threshold.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\flot-chart\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\flot-chart\\jquery.flot.time.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\flowtype.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\flowtype.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\form-validation\\jquery.validate-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\form-validation\\jquery.validate-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\form-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\form-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\gmap\\gmap.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\gmap\\gmap.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\gmap\\gmapApi.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\gmap\\gmapApi.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\gmap\\gmaps.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\gmap\\gmaps.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\granim\\granim-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\granim\\granim-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\granim\\granim.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\granim\\granim.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\invoice-edit.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\invoice-edit.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jquery-ui\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jquery-ui\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jquery.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jquery.nanoscroller.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jquery.nanoscroller.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\db.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\db.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\fields\\jsgrid.field.checkbox.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\fields\\jsgrid.field.checkbox.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\fields\\jsgrid.field.control.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\fields\\jsgrid.field.control.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\fields\\jsgrid.field.number.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\fields\\jsgrid.field.number.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\fields\\jsgrid.field.select.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\fields\\jsgrid.field.select.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\fields\\jsgrid.field.text.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\fields\\jsgrid.field.text.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\fields\\jsgrid.field.textarea.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\fields\\jsgrid.field.textarea.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\jsgrid-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\jsgrid-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\jsgrid.core.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\jsgrid.core.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\jsgrid.field.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\jsgrid.field.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\jsgrid.load-indicator.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\jsgrid.load-indicator.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\jsgrid.load-strategies.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\jsgrid.load-strategies.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\jsgrid.sort-strategies.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\jsgrid.sort-strategies.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\jsgrid\\jsgrid.validation.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\jsgrid\\jsgrid.validation.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\knob\\knob.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\knob\\knob.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\line-progress\\jquery.lineProgressbar.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\line-progress\\jquery.lineProgressbar.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\line-progress\\line-progress-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\line-progress\\line-progress-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\menubar\\sidebar.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\menubar\\sidebar.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\metismenu\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\metismenu\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\metismenu\\metismenu.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\metismenu\\metismenu.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\metismenu\\metismenu.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\metismenu\\metismenu.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\mmc-common.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\mmc-common.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\moment\\moment.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\morris-chart\\morris-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\morris-chart\\morris-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\morris-chart\\morris.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\morris-chart\\morris.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\morris-chart\\raphael-min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\morris-chart\\raphael-min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\nestable\\jquery.nestable.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\nestable\\jquery.nestable.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\nestable\\nestable.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\nestable\\nestable.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\owl-carousel\\owl.carousel-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\owl-carousel\\owl.carousel-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\peitychart\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\peitychart\\jquery.peity.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\peitychart\\peitychart.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\peitychart\\peitychart.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\portlets\\portlets-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\portlets\\portlets-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\portlets\\portlets.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\portlets\\portlets.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\preloader\\pace.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\preloader\\pace.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\rangeSlider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\rangeSlider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\rangeSlider\\moment-with-locales.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\rangeSlider\\moment-with-locales.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\rangeSlider\\moment.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\rangeSlider\\moment.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\rangeSlider\\rangeslider.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\rangeSlider\\rangeslider.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\rating1\\jRate.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\rating1\\jRate.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\rating1\\jRate.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\rating1\\jRate.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\scrollable\\holder.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\scrollable\\holder.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\scrollable\\jquery-asScrollable.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\scrollable\\jquery-asScrollable.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\scrollable\\jquery-asScrollbar.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\scrollable\\jquery-asScrollbar.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\scrollable\\scrollable.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\scrollable\\scrollable.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\sparklinechart\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\sparklinechart\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\sparklinechart\\sparkline.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\sparklinechart\\sparkline.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\sweetalert\\sweetalert.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\sweetalert\\sweetalert.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\toastr\\toastr.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\toastr\\toastr.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\country\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\country\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\jquery.vmap.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\vector-map\\vector.init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\vector-map\\vector.init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\weather\\jquery.simpleWeather.min.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\weather\\jquery.simpleWeather.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\lib\\weather\\weather-init.js",
+      "PackagePath": "staticwebassets\\a\\js\\lib\\weather\\weather-init.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\a\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\a\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\1.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\11.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\3.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\rstaurant.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\rstaurant.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\sprites\\ddd.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\ddd.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\01edb0b5-906c-4c92-808f-86c40e29f53f2 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\01edb0b5-906c-4c92-808f-86c40e29f53f2 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\04bc7950-5aa5-4a1c-abb4-2718bc6de42a3g_dunya_siyasi_haritasi3.png",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\04bc7950-5aa5-4a1c-abb4-2718bc6de42a3g_dunya_siyasi_haritasi3.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\054ad0b5-fcfb-4b27-8a67-5df46e1b452101.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\054ad0b5-fcfb-4b27-8a67-5df46e1b452101.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\0ae39c1b-fdfb-40a4-bf09-538af05a674a454685.png",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\0ae39c1b-fdfb-40a4-bf09-538af05a674a454685.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\0aeb0e5f-057d-4c48-a10f-e1f115f87e7f2 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\0aeb0e5f-057d-4c48-a10f-e1f115f87e7f2 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\0f0e0f14-5b10-412d-8a39-8e5fa29e6b402 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\0f0e0f14-5b10-412d-8a39-8e5fa29e6b402 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\13598a4b-4c1c-433e-b09b-d2647fa95f04indir.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\13598a4b-4c1c-433e-b09b-d2647fa95f04indir.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\20fbc8b9-9494-4d72-8686-b0b568ee07eb01.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\20fbc8b9-9494-4d72-8686-b0b568ee07eb01.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\38c8b694-e37f-4793-972c-c3b842302b0dNaxçıvan-Mətbəxinin-Şahı-Qovurma.jpg1_.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\38c8b694-e37f-4793-972c-c3b842302b0dNaxçıvan-Mətbəxinin-Şahı-Qovurma.jpg1_.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\419aabfb-60ef-48c3-9d76-35a627c211eb2 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\419aabfb-60ef-48c3-9d76-35a627c211eb2 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\4685134b-99fa-41eb-b9e0-174f494bdb4560e4662a4e3fe0195427e88c.webp",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\4685134b-99fa-41eb-b9e0-174f494bdb4560e4662a4e3fe0195427e88c.webp"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\4893624a-4357-470b-8c84-5d93faf6d37a7e8349b1-a946-4c9d-b5a9-580e2d5f5abe.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\4893624a-4357-470b-8c84-5d93faf6d37a7e8349b1-a946-4c9d-b5a9-580e2d5f5abe.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\50c98f84-a0ec-4031-a616-43e9c307b1dc2013-07-17-594.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\50c98f84-a0ec-4031-a616-43e9c307b1dc2013-07-17-594.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\5429eae4-b0e0-4563-b086-141f0db5d8d82 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\5429eae4-b0e0-4563-b086-141f0db5d8d82 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\5688c4f9-c731-49b4-a25a-c90e60b4fa8f2 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\5688c4f9-c731-49b4-a25a-c90e60b4fa8f2 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\69cc407e-372b-4ac8-93c9-f16098cd493b02.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\69cc407e-372b-4ac8-93c9-f16098cd493b02.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\7431b291-1107-4806-8f99-e1d129dcb705454685.png",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\7431b291-1107-4806-8f99-e1d129dcb705454685.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\852a1fa3-c885-4d90-b17d-40742bb20bc860e4662a4e3fe0195427e88c.webp",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\852a1fa3-c885-4d90-b17d-40742bb20bc860e4662a4e3fe0195427e88c.webp"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\8da6cbe8-ee13-4659-a3b7-4ae6c79052fd2 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\8da6cbe8-ee13-4659-a3b7-4ae6c79052fd2 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\8e47d6e8-fbe9-4a0e-9d13-2a46d5693b73indir.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\8e47d6e8-fbe9-4a0e-9d13-2a46d5693b73indir.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\9126528b-0882-4fca-a607-12297fd1d8fa01.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\9126528b-0882-4fca-a607-12297fd1d8fa01.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\bcee7c50-e307-4303-9e20-f3423f46617c2 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\bcee7c50-e307-4303-9e20-f3423f46617c2 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\bdee9bc5-cb01-4642-a8a8-b0da5b58d410454685.png",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\bdee9bc5-cb01-4642-a8a8-b0da5b58d410454685.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\bf262b0d-ee41-412d-bf3a-30662a187b7a454685.png",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\bf262b0d-ee41-412d-bf3a-30662a187b7a454685.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\c453949e-9bca-4064-abd5-30dd4197d679454685.png",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\c453949e-9bca-4064-abd5-30dd4197d679454685.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\c5f162ad-87c3-42b9-b305-408f68cfaf3c2 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\c5f162ad-87c3-42b9-b305-408f68cfaf3c2 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\c7d89742-95c6-42da-ba0f-65080fa68ca5IMG-20150402-WA0064.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\c7d89742-95c6-42da-ba0f-65080fa68ca5IMG-20150402-WA0064.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\cdc494cd-3855-4087-be3e-57141273a0a22 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\cdc494cd-3855-4087-be3e-57141273a0a22 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\ce80fa2a-9b76-43d4-b43d-19c3921c218d2 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\ce80fa2a-9b76-43d4-b43d-19c3921c218d2 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\d06a4c13-c8c4-4018-b054-f91c19790faf2 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\d06a4c13-c8c4-4018-b054-f91c19790faf2 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\dd2527ae-cfb0-4f21-8dba-ca91c05cf03b454685.png",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\dd2527ae-cfb0-4f21-8dba-ca91c05cf03b454685.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\dfde1591-0da2-4584-a094-25c624996d3d454685.png",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\dfde1591-0da2-4584-a094-25c624996d3d454685.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\e12cd6a9-3d56-47b3-8820-b593f01d7e1602.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\e12cd6a9-3d56-47b3-8820-b593f01d7e1602.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\e2dcc108-1e75-4a6b-a6cd-b9f391eab77a2 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\e2dcc108-1e75-4a6b-a6cd-b9f391eab77a2 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\e37a6ae1-6c55-4532-9f9b-d8d5788e8a8a2 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\e37a6ae1-6c55-4532-9f9b-d8d5788e8a8a2 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\e50c6643-82e8-4bd2-8316-0ac862abd51c03.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\e50c6643-82e8-4bd2-8316-0ac862abd51c03.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\eaa8cd83-26f8-4637-82c1-ad83b6ef317f2 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\eaa8cd83-26f8-4637-82c1-ad83b6ef317f2 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\ebad00e8-ff9d-4683-b103-81f53b7ca6902 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\ebad00e8-ff9d-4683-b103-81f53b7ca6902 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\edf6d47e-cadd-4b4b-8ff4-5234b33da7ba01.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\edf6d47e-cadd-4b4b-8ff4-5234b33da7ba01.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\f025b603-5750-4d50-9d28-0e96a2037057454685.png",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\f025b603-5750-4d50-9d28-0e96a2037057454685.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\f19d87f1-dedd-4ae3-80fe-7f88c5e26d1bindir.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\f19d87f1-dedd-4ae3-80fe-7f88c5e26d1bindir.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\fa8b4259-a3a1-45cd-8568-f4514ab5c8362 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\fa8b4259-a3a1-45cd-8568-f4514ab5c8362 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\faabbd59-3580-4c1a-aca9-49f246d4fc3f454685.png",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\faabbd59-3580-4c1a-aca9-49f246d4fc3f454685.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\faf1811d-45d6-4879-9ac5-be76b0f732ad01.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\faf1811d-45d6-4879-9ac5-be76b0f732ad01.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\fbd12f43-5127-4cce-9f72-58cf23398d4a2 Nd Sim 20170314_223608.jpg",
+      "PackagePath": "staticwebassets\\assets\\projecphotos\\fbd12f43-5127-4cce-9f72-58cf23398d4a2 Nd Sim 20170314_223608.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\assetss\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\assetss\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\css\\soft-ui-dashboard.css",
+      "PackagePath": "staticwebassets\\assetss\\css\\soft-ui-dashboard.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\css\\soft-ui-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assetss\\css\\soft-ui-dashboard.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\css\\soft-ui-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assetss\\css\\soft-ui-dashboard.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assetss\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\assetss\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assetss\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assetss\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assetss\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\assetss\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\assetss\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\assetss\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\assetss\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\bg1.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\1.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\1.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\2.jpeg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\2.jpeg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\3.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\3.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved-10.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved-10.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved-11.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved-11.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved-6.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved-6.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved-8.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved-8.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved11-small.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved11-small.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved12.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved12.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved13.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved13.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved19.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved19.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved2.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved2.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved21.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved21.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved3.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved3.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved4.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved4.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved5-small.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved5-small.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved5.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved5.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved6-small.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved6-small.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\curved-images\\white-curved.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\curved-images\\white-curved.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\illustrations\\rocket-dark.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\illustrations\\rocket-dark.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\logo-ct.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\marie.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\shapes\\shape-1.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\shapes\\shape-1.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\shapes\\shape-2.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\shapes\\shape-2.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\shapes\\shape-3.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\shapes\\shape-3.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\shapes\\wave-down.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\shapes\\wave-down.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\shapes\\wave-up.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\shapes\\wave-up.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\shapes\\waves-gray.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\shapes\\waves-gray.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\assetss\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\angular.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\angular.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\bootstrap.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\bootstrap.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\dribbble.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\dribbble.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\dropbox.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\dropbox.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\mastercard.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\mastercard.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\paypal.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\paypal.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\react.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\react.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\sketch.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\sketch.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\slack.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\slack.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\spotify.jpeg",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\spotify.jpeg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\tim.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\tim.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\unass.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\unass.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\visa.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\visa.png"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\theme\\vue.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\theme\\vue.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assetss\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assetss\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assetss\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\assetss\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assetss\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assetss\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assetss\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assetss\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\js\\soft-ui-dashboard.js",
+      "PackagePath": "staticwebassets\\assetss\\js\\soft-ui-dashboard.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\js\\soft-ui-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assetss\\js\\soft-ui-dashboard.js.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\js\\soft-ui-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assetss\\js\\soft-ui-dashboard.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_header.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\theme.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assetss\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\assetss\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.END Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.END Project.props",
+      "PackagePath": "build\\END Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.END Project.props",
+      "PackagePath": "buildMultiTargeting\\END Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.END Project.props",
+      "PackagePath": "buildTransitive\\END Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
