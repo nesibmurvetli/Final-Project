@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using END_Project.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace END_Project.DAL
 {
@@ -8,5 +9,7 @@ namespace END_Project.DAL
         {
 
         }
+        public DbSet<MainMenu> MainMenus { get; set; }
+        public DbSet<Food> Foods { get; set; }
     }
 }

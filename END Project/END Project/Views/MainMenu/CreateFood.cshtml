@@ -1,0 +1,39 @@
+﻿@model Food
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Hansı çeşidi əlavə etmək istəyirsiniz?</h4>
+                <form class="forms-sample" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label asp-for="Photo">Şəkil</label>
+                        <input asp-for="Photo" class="form-control">
+                        <span asp-validation-for="Photo" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Name">Ad</label>
+                        <input asp-for="Name" class="form-control">
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Price">Qiymət</label>
+                        <input asp-for="Price" class="form-control">
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Ingradient">Tərkibi</label>
+                        <input asp-for="Ingradient" class="form-control">
+                        <span asp-validation-for="Ingradient" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Davam et</button>
+                    <a asp-action="Index" class="btn btn-light">Cancel</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+

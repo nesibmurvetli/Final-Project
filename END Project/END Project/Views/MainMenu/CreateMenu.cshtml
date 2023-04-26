@@ -1,0 +1,27 @@
+﻿@model MainMenu
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Yemək adını qeyd elə</h4>
+                <form class="forms-sample" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label asp-for="Name">Ad</label>
+                        <input asp-for="Name" class="form-control" placeholder="Ad">
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn btn-gradient-primary me-2">Davam et</button>
+                    <a asp-action="Index" class="btn btn-light">Ləğv Et</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+
+
+

@@ -1,0 +1,43 @@
+﻿
+
+@model Food
+   
+    <div class="row">
+        <div class="col-md-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Dəyişiklik etmək istədiyiniz xanada məlumatları daxil edin</h4>
+                    <form method="post" enctype="multipart/form-data">
+                        <div class="form-group">
+                            <label asp-for="Photo">Şəkil</label>
+                            <input asp-for="Photo" class="form-control">
+                            <span class="text-danger" asp-validation-for="@Model.Photo"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="@Model.Name">Ad</label>
+                            <input style="color:black" asp-for="@Model.Name" class="form-control">
+                            <span class="text-danger" asp-validation-for="@Model.Name"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="@Model.Ingradient">İçindəkilər</label>
+                            <input style="color:black" asp-for="@Model.Ingradient" class="form-control">
+                            <span class="text-danger" asp-validation-for="@Model.Ingradient"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="@Model.Price">Qiymət</label>
+                            <input style="color:black" asp-for="@Model.Price" class="form-control">
+                            <span class="text-danger" asp-validation-for="@Model.Price"></span>
+                        </div>
+                        <button type="submit" class="btn btn-outline-success">Yenilə</button>
+                        <a asp-action="Index" class="btn btn-outline-primary">Geri</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @section Scripts{
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+    }
+
