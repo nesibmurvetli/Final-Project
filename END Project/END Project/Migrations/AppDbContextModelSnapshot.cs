@@ -21,6 +21,62 @@ namespace END_Project.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("END_Project.Models.ExtraMenu", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("IsDeactive")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ExtraMenus");
+                });
+
+            modelBuilder.Entity("END_Project.Models.Fast", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("ExtraMenuId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Image")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Ingradient")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsDeactive")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Price")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ExtraMenuId");
+
+                    b.ToTable("Fasts");
+                });
+
             modelBuilder.Entity("END_Project.Models.Food", b =>
                 {
                     b.Property<int>("Id")
@@ -77,6 +133,17 @@ namespace END_Project.Migrations
                     b.ToTable("MainMenus");
                 });
 
+            modelBuilder.Entity("END_Project.Models.Fast", b =>
+                {
+                    b.HasOne("END_Project.Models.ExtraMenu", "ExtraMenus")
+                        .WithMany("Fasts")
+                        .HasForeignKey("ExtraMenuId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ExtraMenus");
+                });
+
             modelBuilder.Entity("END_Project.Models.Food", b =>
                 {
                     b.HasOne("END_Project.Models.MainMenu", "MainMenus")
@@ -86,6 +153,11 @@ namespace END_Project.Migrations
                         .IsRequired();
 
                     b.Navigation("MainMenus");
+                });
+
+            modelBuilder.Entity("END_Project.Models.ExtraMenu", b =>
+                {
+                    b.Navigation("Fasts");
                 });
 
             modelBuilder.Entity("END_Project.Models.MainMenu", b =>

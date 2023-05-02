@@ -107,7 +107,7 @@ namespace END_Project.Controllers
         #region UpdateMainMenu
         public async Task<IActionResult> UpdateMainMenu(int? menuId)
         {
-            if (menuId == null)  /*id si olmayanın yoxlanılmasınının qarçısını almaq üçün*/
+            if (menuId == null)  /*id si olmayanın yoxlanılmasınının qarşısını almaq üçün*/
             {
                 return NotFound();
             }
@@ -122,7 +122,7 @@ namespace END_Project.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> UpdateMainMenu(int? menuId, MainMenu menu)
         {
-            if (menuId == null)  /*id si olmayanın yoxlanılmasınının qarçısını almaq üçün*/
+            if (menuId == null)  /*id si olmayanın yoxlanılmasınının qarşısını almaq üçün*/
             {
                 return NotFound();
             }

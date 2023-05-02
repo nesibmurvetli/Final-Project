@@ -11,5 +11,7 @@ namespace END_Project.DAL
         }
         public DbSet<MainMenu> MainMenus { get; set; }
         public DbSet<Food> Foods { get; set; }
+        public DbSet<ExtraMenu> ExtraMenus { get; set; }
+        public DbSet<Fast> Fasts { get; set; }
     }
 }

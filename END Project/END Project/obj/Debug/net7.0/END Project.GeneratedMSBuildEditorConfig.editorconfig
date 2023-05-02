@@ -16,6 +16,30 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\itbrains\git proyekt\Final-Project\END Project\END Project
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/ExtraMenu/CreateExtra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFNZW51XENyZWF0ZUV4dHJhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/ExtraMenu/CreateFast.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFNZW51XENyZWF0ZUZhc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/ExtraMenu/DetailFast.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFNZW51XERldGFpbEZhc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/ExtraMenu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFNZW51XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/ExtraMenu/UpdateExtraMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFNZW51XFVwZGF0ZUV4dHJhTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/ExtraMenu/UpdateFast.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFNZW51XFVwZGF0ZUZhc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
