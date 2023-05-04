@@ -1,0 +1,116 @@
+﻿@model Employee
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Şəxs əlavə edin</h4>
+                <form class="forms-sample" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label asp-for="Photo"></label>
+                        <input asp-for="Photo" class="form-control">
+                        <span asp-validation-for="Photo" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Name"></label>
+                        <input asp-for="Name" class="form-control">
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Surname"></label>
+                        <input asp-for="Surname" class="form-control">
+                        <span asp-validation-for="Surname" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="FatherName"></label>
+                        <input asp-for="FatherName" class="form-control">
+                        <span asp-validation-for="FatherName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        @if (!Model.IsMale)
+                        {
+                            <div class="maxl">
+                                <span><h5>Cins</h5></span>
+                                <label class="radio inline">
+                                    <label class="form-check-label" for="inlineCheckbox1"><h6>Kişi</h6></label>
+                                    <input asp-for="@Model.IsMale" type="radio" name="gender" value="true">
+                                    <span asp-validation-for="@Model.IsMale" class="text-danger"></span>
+
+                                </label>
+                                <label class="radio inline">
+                                    <label class="form-check-label" for="inlineCheckbox2"><h6>Qadın</h6></label>
+                                    <input asp-for="@Model.IsMale" type="radio" name="gender" value="false" checked>
+                                    <span asp-validation-for="@Model.IsMale" class="text-danger"></span>
+
+                                </label>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="maxl">
+                                <span> <h5>Cins</h5></span>
+                                <label class="radio inline">
+                                    <label class="form-check-label" for="inlineCheckbox1"><h6>Kişi</h6></label>
+                                    <input asp-for="@Model.IsMale" type="radio" name="gender" value="true" checked>
+                                    <span asp-validation-for="@Model.IsMale" class="text-danger"></span>
+
+                                </label>
+                                <label class="radio inline">
+                                    <label class="form-check-label" for="inlineCheckbox2"><h6>Qadın</h6></label>
+                                    <input asp-for="@Model.IsMale" type="radio" name="gender" value="false">
+                                    <span asp-validation-for="@Model.IsMale" class="text-danger"></span>
+
+                                </label>
+                            </div>
+                        }
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DateofBirth"></label>
+                        <input asp-for="DateofBirth" class="form-control">
+                        <span asp-validation-for="DateofBirth" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label>Vəzifəni seçin</label>
+                        <select name="positionId" class="form-control">
+                            @foreach (Position pos in ViewBag.Positions)
+                            {
+                                if (Model.PositionId == pos.Id)
+                                {
+                                    <option selected value="@pos.Id">@pos.PosName</option>
+                                }
+                                else
+                                {
+                                    <option value="@pos.Id">@pos.PosName</option>
+                                }
+
+                            }
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PhoneNumber"></label>
+                        <input asp-for="PhoneNumber" class="form-control">
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email"></label>
+                        <input asp-for="Email" class="form-control">
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Salary"></label>
+                        <input asp-for="Salary" class="form-control">
+                        <span asp-validation-for="Salary" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary mr-2">Davam et</button>
+                    <a asp-action="Index" class="btn btn-light">Cancel</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+

@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\itbrains\git proyekt\Final-Project\END Project\END Project
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/Employees/CreateEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZUVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/Employees/DetailEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbEVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/Employees/SendMail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFNlbmRNYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/Employees/UpdateEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFVwZGF0ZUVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/ExtraMenu/CreateExtra.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXh0cmFNZW51XENyZWF0ZUV4dHJhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -66,6 +86,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/MainMenu/UpdateMainMenu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbk1lbnVcVXBkYXRlTWFpbk1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/Position/CreatePosition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25cQ3JlYXRlUG9zaXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/Position/DetailPosition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25cRGV0YWlsUG9zaXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/Position/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/Position/UpdatePosition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25cVXBkYXRlUG9zaXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/itbrains/git proyekt/Final-Project/END Project/END Project/Views/Shared/Error.cshtml]

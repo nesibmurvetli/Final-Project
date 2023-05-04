@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OSDZGgxL9OTfbf1G9FV4zZ8prWXr3e/QxHC1pYHsqUM=",
+  "Hash": "9kh0ImrsJz2/aAm/ETjVBHkUIeHx7i3+37bkEwfhSTY=",
   "Source": "END Project",
   "BasePath": "_content/END Project",
   "Mode": "Default",
@@ -5593,12 +5593,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\projecphotos\\291ddd0b-8791-4fc6-b24f-23f06a0b7da3-42718466155436460735862182510229980.jpg"
     },
     {
-      "Identity": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\93ad26cd-164a-411d-962c-cb3e8970b31aCoca-Cola.jpg",
+      "Identity": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\projecphotos\\d52442e9-1d6c-40f8-948f-83160c77d53eCoca-Cola.jpg",
       "SourceId": "END Project",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\",
       "BasePath": "_content/END Project",
-      "RelativePath": "assets/projecphotos/93ad26cd-164a-411d-962c-cb3e8970b31aCoca-Cola.jpg",
+      "RelativePath": "assets/projecphotos/d52442e9-1d6c-40f8-948f-83160c77d53eCoca-Cola.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5607,7 +5607,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\projecphotos\\93ad26cd-164a-411d-962c-cb3e8970b31aCoca-Cola.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\projecphotos\\d52442e9-1d6c-40f8-948f-83160c77d53eCoca-Cola.jpg"
     },
     {
       "Identity": "D:\\itbrains\\git proyekt\\Final-Project\\END Project\\END Project\\wwwroot\\assets\\scss\\_dashboard.scss",

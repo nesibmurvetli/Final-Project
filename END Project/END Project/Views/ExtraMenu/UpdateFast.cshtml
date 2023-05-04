@@ -1,5 +1,6 @@
 ﻿
 @model Fast
+
 <div class="row">
     <div class="col-md-12 grid-margin stretch-card">
         <div class="card">
@@ -9,7 +10,7 @@
                     <div class="form-group">
                         <label asp-for="Photo"></label>
                         <input asp-for="Photo" class="form-control">
-                        <span asp-validation-for="@Model.Photo" class="text-danger"></span>
+                        <span class="text-danger" asp-validation-for="@Model.Photo"></span>
                     </div>
                     <div class="form-group">
                         <label asp-for="@Model.Name">Ad</label>

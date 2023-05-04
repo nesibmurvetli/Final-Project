@@ -44,11 +44,11 @@ namespace END_Project.Controllers
         public async Task<IActionResult> CreateExtra(ExtraMenu extra)
         {
 
-            //if (!ModelState.IsValid)  /*verilən şərtlər ödəmədikdə */
-            //{
-            //    return View();
+            if (!ModelState.IsValid)  /*verilən şərtlər ödəmədikdə */
+            {
+                return View();
 
-            //}
+            }
             bool isExist = await _db.ExtraMenus.AnyAsync(x => x.Name == extra.Name);   //database de var və yox olduğun yoxlamaq üçün
             if (isExist)
             {
@@ -132,10 +132,10 @@ namespace END_Project.Controllers
             {
                 return BadRequest();
             }
-            //if (!ModelState.IsValid)  /*verilən şərtlər ödəmədikdə */
-            //{
-            //    return View(dbExtraMenu);
-            //}
+            if (!ModelState.IsValid)  /*verilən şərtlər ödəmədikdə */
+            {
+                return View(dbExtraMenu);
+            }
 
             dbExtraMenu.Name = extra.Name;
             await _db.SaveChangesAsync();
@@ -162,7 +162,7 @@ namespace END_Project.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> UpdateFast(int? fastId, Fast fast)
         {
-            if (fastId == null)  /*id si olmayanın yoxlanılmasınının qarçısını almaq üçün*/
+            if (fastId == null)  /*id si olmayanın yoxlanılmasınının qarşısının almaq üçün*/
             {
                 return NotFound();
             }
@@ -182,6 +182,7 @@ namespace END_Project.Controllers
                 {
                     ModelState.AddModelError("Photo", "Zəhmət olmasa şəkil faylı seçin");
                     return View();
+
                 }
                 if (fast.Photo.Max2Mb())
                 {
@@ -198,6 +199,7 @@ namespace END_Project.Controllers
             }
 
             dbFasts.Name = fast.Name;
+
             dbFasts.Price = fast.Price;
             dbFasts.Ingradient = fast.Ingradient;
             await _db.SaveChangesAsync();

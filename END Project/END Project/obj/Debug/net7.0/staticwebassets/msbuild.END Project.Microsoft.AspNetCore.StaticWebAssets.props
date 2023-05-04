@@ -5216,12 +5216,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\projecphotos\291ddd0b-8791-4fc6-b24f-23f06a0b7da3-42718466155436460735862182510229980.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\projecphotos\93ad26cd-164a-411d-962c-cb3e8970b31aCoca-Cola.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\projecphotos\d52442e9-1d6c-40f8-948f-83160c77d53eCoca-Cola.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>END Project</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/END Project</BasePath>
-      <RelativePath>assets/projecphotos/93ad26cd-164a-411d-962c-cb3e8970b31aCoca-Cola.jpg</RelativePath>
+      <RelativePath>assets/projecphotos/d52442e9-1d6c-40f8-948f-83160c77d53eCoca-Cola.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5230,7 +5230,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\projecphotos\93ad26cd-164a-411d-962c-cb3e8970b31aCoca-Cola.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\projecphotos\d52442e9-1d6c-40f8-948f-83160c77d53eCoca-Cola.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\scss\components\_badges.scss))">
       <SourceType>Package</SourceType>
