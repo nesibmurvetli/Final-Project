@@ -52,33 +52,23 @@ namespace END_Project.Controllers
                 ModelState.AddModelError("Name", "Bu artıq mövcuddur");
                 return View();
             }
-
-            #region SaveImage
-            if (employee.Photo != null)
+            if (employee.Photo == null)
             {
-                if (!employee.Photo.IsImage())
-                {
-                    ModelState.AddModelError("Photo", "Zəhmət olmasa bir şəkil fayli seçin");
-                    return View();
-                }
-                if (!employee.Photo.Max2Mb())
-                {
-                    ModelState.AddModelError("Photo", "Şəkil max. 2 mb ola bilər");
-                    return View();
-                }
-
-
-                string folder = Path.Combine(_env.WebRootPath, "assets", "projecphotos");
-                employee.Image = await employee.Photo.SaveFileAsync(folder);
-            }
-            else
-            {
-                ModelState.AddModelError("Photo", "Please Select Image!");
+                ModelState.AddModelError("Photo", "Zəhmət olmasa şəkil seçin");
                 return View();
-
             }
-            #endregion
-     
+            if (!employee.Photo.IsImage())
+            {
+                ModelState.AddModelError("Photo", "Zəhmət olmasa şəkil faylı seçin");
+                return View();
+            }
+            if (employee.Photo.Max2Mb())
+            {
+                ModelState.AddModelError("Photo", "Şəkilin ölçüsü maxsimal olaraq 2mb olmalıdır");
+                return View();
+            }
+            string folder = Path.Combine(_env.WebRootPath, "assets", "projecphotos");
+            employee.Image = await employee.Photo.SaveFileAsync(folder);
             employee.IsMale=gender;
             employee.PositionId = positionId;
             await _db.Employees.AddAsync(employee);
@@ -94,7 +84,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Employee dbEmployee = await _db.Employees.FirstOrDefaultAsync(x => x.Id == employeeId);
+            Employee? dbEmployee = await _db.Employees.FirstOrDefaultAsync(x => x.Id == employeeId);
             if (dbEmployee == null)
             {
                 return BadRequest();
@@ -119,7 +109,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Employee dbEmployee = await _db.Employees.FirstOrDefaultAsync(x => x.Id == employeeId);
+            Employee? dbEmployee = await _db.Employees.FirstOrDefaultAsync(x => x.Id == employeeId);
             if (dbEmployee == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();
@@ -135,7 +125,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Employee dbEmployee = await _db.Employees.Include(x => x.Position).FirstOrDefaultAsync(x => x.Id == employeeId);
+            Employee? dbEmployee = await _db.Employees.Include(x => x.Position).FirstOrDefaultAsync(x => x.Id == employeeId);
             if (dbEmployee == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();
@@ -151,7 +141,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Employee dbEmployee = await _db.Employees.Include(x => x.Position).FirstOrDefaultAsync(x => x.Id == employeeId);
+            Employee? dbEmployee = await _db.Employees.Include(x => x.Position).FirstOrDefaultAsync(x => x.Id == employeeId);
             if (dbEmployee == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();
@@ -194,7 +184,7 @@ namespace END_Project.Controllers
         #region SendMail
         public async Task<IActionResult> SendMail(int? employeeId)
         {
-            Employee employee = await _db.Employees.FirstOrDefaultAsync(x => x.Id == employeeId);
+            Employee? employee = await _db.Employees.FirstOrDefaultAsync(x => x.Id == employeeId);
             if (employee == null)
             {
                 return BadRequest();
@@ -205,7 +195,7 @@ namespace END_Project.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> SendMail(EmailMessage emailMessage,int? employeeId)
         {
-            Employee employee = await _db.Employees.FirstOrDefaultAsync(x => x.Id == employeeId);
+            Employee? employee = await _db.Employees.FirstOrDefaultAsync(x => x.Id == employeeId);
             if (employee == null)
             {
                 return BadRequest();
@@ -213,8 +203,7 @@ namespace END_Project.Controllers
             emailMessage.To = employee.Email;
             try
             {
-
-                await Helper.SendMail(emailMessage.Subject, emailMessage.Body, emailMessage.To);
+                    await Helper.SendMail(messageSubject: emailMessage.Subject,emailMessage.Body, emailMessage.To);
 
             }
             catch

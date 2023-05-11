@@ -6,27 +6,27 @@
                 <h4 class="card-title">İşçi əlavə et</h4>
                 <form class="forms-sample" method="post" enctype="multipart/form-data">
                     <div class="form-group">
-                        <label asp-for="Photo"></label>
+                        <label asp-for="Photo">Şəkil</label>
                         <input asp-for="Photo" class="form-control">
                         <span asp-validation-for="Photo" class="text-danger"></span>
                     </div>
                     <div class="form-group">
-                        <label asp-for="Name"></label>
+                        <label asp-for="Name">Ad</label>
                         <input asp-for="Name" class="form-control">
                         <span asp-validation-for="Name" class="text-danger"></span>
                     </div>
                     <div class="form-group">
-                        <label asp-for="Surname"></label>
+                        <label asp-for="Surname">Soyad</label>
                         <input asp-for="Surname" class="form-control">
                         <span asp-validation-for="Surname" class="text-danger"></span>
                     </div>
                     <div class="form-group">
-                        <label asp-for="FatherName"></label>
+                        <label asp-for="FatherName">Ata adı</label>
                         <input asp-for="FatherName" class="form-control">
                         <span asp-validation-for="FatherName" class="text-danger"></span>
                     </div>
                     <div class="form-group">
-                        <label asp-for="DateofBirth"></label>
+                        <label asp-for="DateofBirth">Doğum tarixi</label>
                         <input asp-for="DateofBirth" class="form-control">
                         <span asp-validation-for="DateofBirth" class="text-danger"></span>
                     </div>
@@ -40,12 +40,12 @@
                         </select>
                     </div>
                     <div class="form-group">
-                        <label asp-for="PhoneNumber"></label>
+                        <label asp-for="PhoneNumber">Telefon Nnömrəsi</label>
                         <input asp-for="PhoneNumber" class="form-control">
                         <span asp-validation-for="PhoneNumber" class="text-danger"></span>
                     </div>
                     <div class="form-group">
-                        <label asp-for="Email"></label>
+                        <label asp-for="Email">E-poçt</label>
                         <input asp-for="Email" class="form-control">
                         <span asp-validation-for="Email" class="text-danger"></span>
                     </div>
@@ -63,13 +63,13 @@
                         </label>
                     </div>
                     <div class="form-group">
-                        <label asp-for="Salary"></label>
+                        <label asp-for="Salary">Maaş</label>
                         <input asp-for="Salary" class="form-control">
                         <span asp-validation-for="Salary" class="text-danger"></span>
                     </div>
 
                     <button type="submit" class="btn btn-primary mr-2">Davam et</button>
-                    <a asp-action="Index" class="btn btn-light">Cancel</a>
+                    <a asp-action="Index" class="btn btn-light">Ləğv et</a>
                 </form>
             </div>
         </div>

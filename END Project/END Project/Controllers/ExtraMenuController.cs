@@ -112,7 +112,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            ExtraMenu dbExtraMenu = await _db.ExtraMenus.FirstOrDefaultAsync(x => x.Id == extraId);
+            ExtraMenu? dbExtraMenu = await _db.ExtraMenus.FirstOrDefaultAsync(x => x.Id == extraId);
             if (dbExtraMenu == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();
@@ -127,7 +127,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            ExtraMenu dbExtraMenu = await _db.ExtraMenus.FirstOrDefaultAsync(x => x.Id == extraId);
+            ExtraMenu? dbExtraMenu = await _db.ExtraMenus.FirstOrDefaultAsync(x => x.Id == extraId);
             if (dbExtraMenu == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();
@@ -151,7 +151,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Fast dbFasts = await _db.Fasts.FirstOrDefaultAsync(x => x.Id == fastId);
+            Fast? dbFasts = await _db.Fasts.FirstOrDefaultAsync(x => x.Id == fastId);
             if (dbFasts == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();
@@ -166,7 +166,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Fast dbFasts = await _db.Fasts.FirstOrDefaultAsync(x => x.Id == fastId);
+            Fast? dbFasts = await _db.Fasts.FirstOrDefaultAsync(x => x.Id == fastId);
 
             if (dbFasts == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
@@ -190,7 +190,7 @@ namespace END_Project.Controllers
                     return View();
                 }
                 string folder = Path.Combine(_env.WebRootPath, "assets", "projecphotos");
-                string path = Path.Combine(folder, dbFasts.Image);  /*kohne şekili yenisi ile evez et*/
+                string path = Path.Combine(folder,path2: dbFasts.Image);  /*kohne şekili yenisi ile evez et*/
                 if (System.IO.File.Exists(path))  /*databasede  de kohne sekil tapıldissa sil onu*/
                 {
                     System.IO.File.Delete(path);
@@ -214,7 +214,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            ExtraMenu dbExtraMenu = await _db.ExtraMenus.FirstOrDefaultAsync(x => x.Id == extraId);
+            ExtraMenu? dbExtraMenu = await _db.ExtraMenus.FirstOrDefaultAsync(x => x.Id == extraId);
             if (dbExtraMenu == null)
             {
                 return BadRequest();
@@ -239,7 +239,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Fast dbFast = await _db.Fasts.FirstOrDefaultAsync(x => x.Id == fastId);
+            Fast?  dbFast = await _db.Fasts.FirstOrDefaultAsync(x => x.Id == fastId);
             if (dbFast == null)
             {
                 return BadRequest();
@@ -264,7 +264,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Fast dbFast = await _db.Fasts.FirstOrDefaultAsync(x => x.Id == fastId);
+            Fast? dbFast = await _db.Fasts.FirstOrDefaultAsync(x => x.Id == fastId);
             if (dbFast == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();

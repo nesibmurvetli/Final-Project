@@ -12,16 +12,16 @@ namespace END_Project.Models
     {
         public int Id { get; set; }
         [Required(ErrorMessage = "Zəhmət olmasa xananı doldurun")]
-        public string Name { get; set; }
-        public string Image { get; set; }
+        public string? Name { get; set; }
+        public string? Image { get; set; }
         [Required(ErrorMessage = "Zəhmət olmasa xananı doldurun")]
-        public string Ingradient { get; set; }
+        public string? Ingradient { get; set; }
         [Required(ErrorMessage = "Zəhmət olmasa xananı doldurun")]
         public int Price { get; set; }
         public bool IsDeactive { get; set; }
-        public ExtraMenu ExtraMenus { get; set; }
+        public ExtraMenu? ExtraMenus { get; set; }
         public int ExtraMenuId { get; set; }
         [NotMapped]
-        public IFormFile Photo { get; set; }
+        public IFormFile? Photo { get; set; }
     }
 }

@@ -64,7 +64,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Position dbPosition = await _db.Positions.FirstOrDefaultAsync(x => x.Id == positionId);
+            Position? dbPosition = await _db.Positions.FirstOrDefaultAsync(x => x.Id == positionId);
             if (dbPosition == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();
@@ -79,7 +79,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Position dbPosition = await _db.Positions.FirstOrDefaultAsync(x => x.Id == positionId);
+            Position? dbPosition = await _db.Positions.FirstOrDefaultAsync(x => x.Id == positionId);
             if (dbPosition == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();
@@ -102,7 +102,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Position dbPosition = await _db.Positions.FirstOrDefaultAsync(x => x.Id == positionId);
+            Position? dbPosition = await _db.Positions.FirstOrDefaultAsync(x => x.Id == positionId);
             if (dbPosition == null)
             {
                 return BadRequest();
@@ -127,7 +127,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Position dbPosition = await _db.Positions.FirstOrDefaultAsync(x => x.Id == positionId);
+            Position? dbPosition = await _db.Positions.FirstOrDefaultAsync(x => x.Id == positionId);
             if (dbPosition == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();

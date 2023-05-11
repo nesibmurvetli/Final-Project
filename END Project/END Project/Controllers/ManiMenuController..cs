@@ -111,7 +111,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            MainMenu dbMainMenu = await _db.MainMenus.FirstOrDefaultAsync(x => x.Id == menuId);
+            MainMenu? dbMainMenu = await _db.MainMenus.FirstOrDefaultAsync(x => x.Id == menuId);
             if (dbMainMenu == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();
@@ -126,7 +126,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            MainMenu dbMainMenu = await _db.MainMenus.FirstOrDefaultAsync(x => x.Id == menuId);
+            MainMenu? dbMainMenu = await _db.MainMenus.FirstOrDefaultAsync(x => x.Id == menuId);
             if (dbMainMenu == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();
@@ -150,7 +150,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Food dbFoods = await _db.Foods.FirstOrDefaultAsync(x => x.Id == foodId);
+            Food? dbFoods = await _db.Foods.FirstOrDefaultAsync(x => x.Id == foodId);
             if (dbFoods == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();
@@ -159,13 +159,13 @@ namespace END_Project.Controllers
         }
         [HttpPost] //pOSTMETODU
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> UpdateFood(int? foodId, Food food)
+        public async Task<IActionResult> UpdateFood(int? foodId, Food food/*,Food dbFoods*/)
         {
             if (foodId == null)  /*id si olmayanın yoxlanılmasınının qarçısını almaq üçün*/
             {
                 return NotFound();
             }
-            Food dbFoods = await _db.Foods.FirstOrDefaultAsync(x => x.Id == foodId);
+            Food? dbFoods = await _db.Foods.FirstOrDefaultAsync(x => x.Id == foodId);
          
             if (dbFoods == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
@@ -189,7 +189,7 @@ namespace END_Project.Controllers
                     return View();
                 }
                 string folder = Path.Combine(_env.WebRootPath, "assets", "projecphotos");
-                string path = Path.Combine(folder, dbFoods.Image);  /*kohne şekili yenisi ile evez et*/
+                string path = Path.Combine(folder, path2: dbFoods.Image);  /*kohne şekili yenisi ile evez et*/
                 if (System.IO.File.Exists(path))  /*databasede  de kohne sekil tapıldissa sil onu*/
                 {
                     System.IO.File.Delete(path);
@@ -213,7 +213,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            MainMenu dbMainMenu = await _db.MainMenus.FirstOrDefaultAsync(x => x.Id == menuId);
+            MainMenu? dbMainMenu = await _db.MainMenus.FirstOrDefaultAsync(x => x.Id == menuId);
             if (dbMainMenu == null)
             {
                 return BadRequest();
@@ -238,7 +238,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Food dbFood = await _db.Foods.FirstOrDefaultAsync(x => x.Id == foodId);
+            Food? dbFood = await _db.Foods.FirstOrDefaultAsync(x => x.Id == foodId);
             if (dbFood == null)
             {
                 return BadRequest();
@@ -263,7 +263,7 @@ namespace END_Project.Controllers
             {
                 return NotFound();
             }
-            Food dbFood = await _db.Foods.FirstOrDefaultAsync(x => x.Id == foodId);
+            Food? dbFood = await _db.Foods.FirstOrDefaultAsync(x => x.Id == foodId);
             if (dbFood == null)  /*yaranmamış id lini yoxlamaq üçün */
             {
                 return BadRequest();
