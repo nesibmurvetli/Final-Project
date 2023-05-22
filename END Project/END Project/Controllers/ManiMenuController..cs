@@ -1,14 +1,8 @@
 ﻿using END_Project.DAL;
 using END_Project.Helpers;
 using END_Project.Models;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace END_Project.Controllers
 {
@@ -42,19 +36,12 @@ namespace END_Project.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> CreateMenu(MainMenu menu)
         {
-           
-            //if (!ModelState.IsValid)  /*verilən şərtlər ödəmədikdə */
-            //{
-            //    return View();
-
-            //}
             bool isExist = await _db.MainMenus.AnyAsync(x => x.Name == menu.Name);   //database de var və yox olduğun yoxlamaq üçün
             if (isExist)
             {
                 ModelState.AddModelError("Name", "Artıq yaratmısınız");
                 return View();
             }
-            
             await _db.MainMenus.AddAsync(menu); 
             await _db.SaveChangesAsync();
             return RedirectToAction("Index");
@@ -70,10 +57,6 @@ namespace END_Project.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> CreateFood(Food food,int menuId)
         {
-            //if (!ModelState.IsValid)  /*verilən şərtlər ödəmədikdə */
-            //{
-            //    return View();
-            //}
             bool isExist = await _db.Foods.AnyAsync(x => x.Name == food.Name);   //database de var və yox olduğun yoxlamaq üçün
             if (isExist)
             {
@@ -135,7 +118,6 @@ namespace END_Project.Controllers
             {
                 return View(dbMainMenu);
             }
-            
             dbMainMenu.Name = menu.Name;
             await _db.SaveChangesAsync();
             return RedirectToAction("Index");
@@ -145,7 +127,6 @@ namespace END_Project.Controllers
         #region UpdateFood
         public async Task<IActionResult> UpdateFood(int? foodId)
         {
-           
             if (foodId == null)  /*id si olmayanın yoxlanılmasınının qarçısını almaq üçün*/
             {
                 return NotFound();
@@ -171,10 +152,6 @@ namespace END_Project.Controllers
             {
                 return BadRequest();
             }
-            //if (!ModelState.IsValid)  /*verilən şərtlər ödəmədikdə */
-            //{
-            //    return View(dbFoods);
-            //}
             if (food.Photo != null)
             {
                 if (!food.Photo.IsImage())

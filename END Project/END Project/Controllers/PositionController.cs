@@ -25,7 +25,6 @@ namespace END_Project.Controllers
             ViewBag.PageCount = Math.Ceiling((decimal)_db.Positions.Count() / 3);
             List<Position> Positions = await _db.Positions.Include(f => f.Employees).Skip((page - 1) * 3).Take(3).ToListAsync();
             return View(Positions);
-
         }
         #endregion
         //-----------------------------------------------//
@@ -38,19 +37,12 @@ namespace END_Project.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> CreatePosition(Position position)
         {
-
-            //if (!ModelState.IsValid)  /*verilən şərtlər ödəmədikdə */
-            //{
-            //    return View();
-
-            //}
             bool isExist = await _db.Positions.AnyAsync(x => x.PosName == position.PosName);   //database de var və yox olduğun yoxlamaq üçün
             if (isExist)
             {
                 ModelState.AddModelError("Name", "Artıq yaratmısınız");
                 return View();
             }
-
             await _db.Positions.AddAsync(position);
             await _db.SaveChangesAsync();
             return RedirectToAction("Index");
@@ -84,10 +76,6 @@ namespace END_Project.Controllers
             {
                 return BadRequest();
             }
-            //if (!ModelState.IsValid)  /*verilən şərtlər ödəmədikdə */
-            //{
-            //    return View(dbPosition);
-            //}
             dbPosition.PosName = position.PosName;
             dbPosition.Responsibilities = position.Responsibilities;
             await _db.SaveChangesAsync();

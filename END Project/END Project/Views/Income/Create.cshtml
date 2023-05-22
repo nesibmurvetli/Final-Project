@@ -1,0 +1,30 @@
+﻿@model Income
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Gəlir Əlave et</h4>
+                <form class="forms-sample" method="post">
+                    <div class="form-group">
+                        <label asp-for="Money">Pul</label>
+                        <input asp-for="Money"  type="number" min="1" onkeypress="return event.charCode >= 48" maxlength="9" class="form-control">
+                        <span asp-validation-for="Money" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="For">Pulun daxil olma səbəbi?</label>
+                        <input asp-for="For" class="form-control">
+                        <span asp-validation-for="For" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Əlavə et</button>
+                    <a asp-action="Index" class="btn btn-light">Dayandır</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+

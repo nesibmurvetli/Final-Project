@@ -1,19 +1,30 @@
-﻿using END_Project.Models;
+﻿using END_Project.DAL;
+using END_Project.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
-
+using Microsoft.EntityFrameworkCore;
 namespace END_Project.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
-       
-        public IActionResult Index()
+
+        //-----------------------------------------------//
+        #region AppDbContext
+        private readonly AppDbContext _db;
+        public HomeController(AppDbContext db)
         {
-            return View();
+            _db = db;
         }
-        public IActionResult Error()
+        #endregion
+        //-----------------------------------------------//
+        #region Index
+        public async Task<IActionResult> Index()
         {
-            return View();
+            Cash? cashes = await _db.Cashes.FirstOrDefaultAsync();
+            return View(cashes);
         }
+        #endregion
+        //-----------------------------------------------//
     }
 }

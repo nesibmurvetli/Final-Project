@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
+﻿using System.Net;
 using System.Net.Mail;
-using System.Threading.Tasks;
 
 namespace END_Project.Helpers
 {
@@ -22,12 +18,14 @@ namespace END_Project.Helpers
             message.Body = messageBody;
             message.BodyEncoding = System.Text.Encoding.UTF8;
             message.IsBodyHtml = true;
-
-
             await client.SendMailAsync(message);
-
+        }
+        public enum Roles
+        {
+            SuperAdmin,
+            Admin,
+            Member
 
         }
-     
     }
 }

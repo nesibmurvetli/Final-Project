@@ -1,15 +1,8 @@
 ﻿using END_Project.DAL;
 using END_Project.Helpers;
 using END_Project.Models;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace END_Project.Controllers
 {
     public class EmployeesController : Controller

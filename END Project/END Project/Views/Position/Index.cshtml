@@ -140,7 +140,7 @@
                     <thead>
                         <tr>
                             <th style="color:blue !important">Vezife Adi</th>
-                            <th  style="color: blue !important">Status</th>
+                            <th style="color: blue !important">Status</th>
                             <th style="color: blue !important">Əməliyyatlar</th>
                         </tr>
                     </thead>
@@ -156,17 +156,16 @@
                                     }
                                     else
                                     {
-                                        <span  class="mdi mdi-close-circle" title="Deaktivdir"style="color:red;"></span>
+                                        <span class="mdi mdi-close-circle" title="Deaktivdir" style="color:red;"></span>
                                     }
                                 </td>
                                 <td>
                                     <a asp-controller="Position" asp-action="UpdatePosition" asp-route-positionId="@position.Id" class="mdi mdi-autorenew" title="Yenilə"></a>
-                                    <a asp-controller="Position" asp-action="DetailPosition" asp-route-positionId="@position.Id"  class="mdi mdi-eye" title="Məlumat əldə et" style="color: fuchsia !important"></a>
+                                    <a asp-controller="Position" asp-action="DetailPosition" asp-route-positionId="@position.Id" class="mdi mdi-eye" title="Məlumat əldə et" style="color: fuchsia !important"></a>
                                     @if (!position.IsDeactive)
                                     {
                                         <!-- Button trigger modal -->
                                         <button type="button" class="mdi mdi-close-circle" title="Deaktiv et" style="color:red !important" data-toggle="modal" data-target="#position-@position.Id">
-                                       
                                         </button>
                                         <!-- Modal -->
                                         <div class="modal fade" id="position-@position.Id" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -192,8 +191,7 @@
                                     else
                                     {
                                         <!-- Button trigger modal -->
-                                        <button type="button" class="mdi mdi-playlist-check"  title="Aktiv et"style="color:green !important" data-toggle="modal" data-target="#position-@position.Id">
-                                        
+                                        <button type="button" class="mdi mdi-playlist-check" title="Aktiv et" style="color:green !important" data-toggle="modal" data-target="#position-@position.Id">
                                         </button>
                                         <!-- Modal -->
                                         <div class="modal fade" id="position-@position.Id" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -225,9 +223,6 @@
                     <div class="card">
                         <nav aria-label="..." class="d-flex justify-content-center" style="padding-top: 16px;">
                             <ul class="pagination pagination-lg">
-                                @*<li class="page-item ">
-                                    <a class="page-link" href="#" tabindex="-1">Previous</a>
-                                </li>*@
                                 @for (int i = 1; i <= ViewBag.PageCount; i++)
                                 {
                                     if (ViewBag.CurrentPage == i)
@@ -243,16 +238,12 @@
                                         </li>
                                     }
                                 }
-                                @*<li class="page-item">
-                                    <a class="page-link" href="#">Next</a>
-                                </li>*@
                             </ul>
                         </nav>
                     </div>
-                    </div>
                 </div>
-           </div>
             </div>
-
+        </div>
+    </div>
 </body>
 </html>

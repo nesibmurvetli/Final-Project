@@ -1,0 +1,96 @@
+﻿
+@model UpdateVM
+    <div class="row">
+        <div class="col-md-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">İstifadəçi mılumatlarını yenilə</h4>
+                    <div asp-validation-summary="ModelOnly" class="text-danger">   </div>
+                    <form class="forms-sample" method="post" enctype="multipart/form-data">
+                        <div class="form-group">
+                            <label asp-for="Name">Ad</label>
+                            <input asp-for="Name" class="form-control">
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Surname">Soyad</label>
+                            <input asp-for="Surname" class="form-control">
+                            <span asp-validation-for="Surname" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="PhoneNumber">Telefon nömrəsi</label>
+                            <input asp-for="PhoneNumber" class="form-control">
+                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Username">İstifadəçi adı</label>
+                            <input asp-for="Username" class="form-control">
+                            <span asp-validation-for="Username" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            @if (!Model.IsMale)
+                            {
+                                <div class="maxl">
+                                    <span><h5>Cins</h5></span>
+                                    <label class="radio inline">
+                                        <label class="form-check-label" for="inlineCheckbox1"><h6>Kişi</h6></label>
+                                        <input asp-for="@Model.IsMale" type="radio" name="gender" value="true">
+                                        <span asp-validation-for="@Model.IsMale" class="text-danger"></span>
+
+                                    </label>
+                                    <label class="radio inline">
+                                        <label class="form-check-label" for="inlineCheckbox2"><h6>Qadın</h6></label>
+                                        <input asp-for="@Model.IsMale" type="radio" name="gender" value="false" checked>
+                                        <span asp-validation-for="@Model.IsMale" class="text-danger"></span>
+
+                                    </label>
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="maxl">
+                                    <span> <h5>Cins</h5></span>
+                                    <label class="radio inline">
+                                        <label class="form-check-label" for="inlineCheckbox1"><h6>Kişi</h6></label>
+                                        <input asp-for="@Model.IsMale" type="radio" name="gender" value="true" checked>
+                                        <span asp-validation-for="@Model.IsMale" class="text-danger"></span>
+                                    </label>
+                                    <label class="radio inline">
+                                        <label class="form-check-label" for="inlineCheckbox2"><h6>Qadın</h6></label>
+                                        <input asp-for="@Model.IsMale" type="radio" name="gender" value="false">
+                                        <span asp-validation-for="@Model.IsMale" class="text-danger"></span>
+                                    </label>
+                                </div>
+                            }
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Email">Poçt ünvanı</label>
+                            <input asp-for="Email" class="form-control">
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>Rolu seç</label>
+                            <select name="newRole" class="form-control">
+                                @foreach (IdentityRole role in ViewBag.Roles)
+                                {
+                                    if (Model.Role == role.Name)
+                                    {
+                                        <option selected value="@role.Name">@role.Name</option>
+                                    }
+                                    else
+                                    {
+                                        <option value="@role.Name">@role.Name</option>
+                                    }
+                                }
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-primary mr-2">Davam et</button>
+                        <a asp-action="Index" class="btn btn-light">Dayandır</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    @section Scripts{
+        <partial name="_ValidationScriptsPartial" />
+    }

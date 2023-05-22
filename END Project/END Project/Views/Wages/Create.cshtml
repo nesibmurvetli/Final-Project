@@ -1,0 +1,30 @@
+﻿@model Wage
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Maaş ödə</h4>
+                <form class="forms-sample" method="post">
+                    <div class="form-group">
+                        <select name="empId" class="form-control">
+                            @foreach (Employee item in ViewBag.Employees)
+                            {
+                                <option value="@item.Id">@item.Name</option>
+                            }
+                        </select>
+                            <h6><span asp-validation-for="Employee" class=" text-danger"></span></h6>
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Davam et</button>
+                    <a asp-action="Index" class="btn btn-light">Ləğv et</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+
+

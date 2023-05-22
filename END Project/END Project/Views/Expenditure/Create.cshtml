@@ -1,0 +1,30 @@
+﻿@model Expenditure
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Xərc əlavə et</h4>
+                <form class="forms-sample" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label asp-for="Money">Pul</label>
+                        <input asp-for="Money" class="form-control">
+                        <span asp-validation-for="Money" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="For">Səbəb</label>
+                        <input asp-for="For" class="form-control">
+                        <span asp-validation-for="For" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Davam et</button>
+                    <a asp-action="Index" class="btn btn-light">Ləğv et</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+

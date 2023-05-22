@@ -1,10 +1,10 @@
 ﻿using END_Project.Models;
-
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace END_Project.DAL
 {
-    public class AppDbContext:DbContext
+    public class AppDbContext : IdentityDbContext<AppUser>
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
@@ -17,7 +17,10 @@ namespace END_Project.DAL
         public DbSet<Position> Positions { get; set; }
         public DbSet<Employee> Employees { get; set; }
         public DbSet<EmailMessage> EmailMessages { get; set; }
-
+        public DbSet<Income> Incomes { get; set; }
+        public DbSet<Expenditure> Expenditures { get; set; }
+        public DbSet<Cash> Cashes { get; set; }
+        public DbSet<Wage> Wages { get; set; }
 
     }
 }

@@ -17,7 +17,7 @@
         <!-- partial:partials/_navbar.html -->
         <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row" @*style="background-image:url(../assets/images/3.jpg)"*@>
             <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-                <a class="navbar-brand brand-logo" asp-controller="Dashboard" asp-action="Index"><img src="~/assets/images/1.svg" alt="logo" /></a>
+                <a class="navbar-brand brand-logo" asp-controller="Home" asp-action="Index"><img src="~/assets/images/1.svg" alt="logo"  /></a>
                 <a class="navbar-brand brand-logo-mini" href="index.html"><img src="~/assets/images/logo-mini.svg" alt="logo" /></a>
             </div>
             <div class="navbar-menu-wrapper d-flex align-items-stretch">
@@ -27,12 +27,23 @@
                 <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
                     <span class="mdi mdi-menu"></span>
                 </button>
+                <div class="navbar-menu-wrapper d-flex align">
+                   @if (User.IsInRole("SuperAdmin") || User.IsInRole("Admin"))
+                    {
+                            <a class="mdi mdi-account" style="margin-right:10px; color:blue !important"  href="#">@User.Identity.Name</a>
+                            <a asp-controller="Account" asp-action="Login" class="mdi mdi-logout-variant" style="margin-right:10px; color:blue !important"> Çixis</a>
+                            <a class="mdi mdi-account-plus" asp-controller="Account" asp-action="Register">Qeydiyyat</a>
+                    }
+                    else
+                    {
+                            <a class="mdi mdi-account"  style="margin-right:10px; color:blue !important" href="#">@User.Identity.Name</a>
+                            <a asp-controller="Account" asp-action="Login" class="mdi mdi-logout-variant" style="margin-right:10px; color:blue !important"> Çixis</a>
+                    }
+                </div>
             </div>
-            
         </nav>
-       
         <!-- partial -->
-        <div class="container-fluid page-body-wrapper">
+        <div class="container-fluid page-body-wrapper" style="padding-top:89px; margin-left: 15px;">
             <!-- partial:partials/_sidebar.html -->
             <nav class="sidebar sidebar-offcanvas" id="sidebar">
                 <ul class="nav">
@@ -50,13 +61,9 @@
                             <i class="mdi mdi-bookmark-check text-success nav-profile-badge"></i>
                         </a>
                     </li>
-                    <li>
-                        <div class="d-flex justify-content-center">
-                            <a asp-controller="Account" asp-action="Login" class="mdi mdi-export"  style="margin-right:10px; color:blue !important"> Cixis</a>
-                        </div>
-                    </li>
+
                     <li class="nav-item">
-                        <a class="nav-link" asp-controller="Dashboard" asp-action="Index">
+                        <a class="nav-link" asp-controller="Home" asp-action="Index">
                             <span class="menu-title">Əsas Səhifə</span>
                             <i class="mdi mdi-home menu-icon"></i>
                         </a>
@@ -109,20 +116,6 @@
                             <span class="menu-title">İstifadəçilər</span>
                             <i class="mdi mdi-account-multiple menu-icon"></i>
                         </a>
-                    </li>
-                    @*<li class="nav-item">
-                        <a class="nav-link" asp-controller="Cash" asp-action="Index">
-                            <span class="menu-title">Balans</span>
-                            <i class="mdi mdi-account-multiple menu-icon"></i>
-                        </a>
-                    </li>*@
-
-                    @*<li class="nav-item">
-                        <a class="nav-link" asp-controller="Addresses" asp-action="Index">
-                            <span class="menu-title">Ünvanlar</span>
-                            <i class="mdi mdi-google-maps menu-icon"></i>
-                        </a>
-                    </li>*@
                 </ul>
             </nav>
             @RenderBody()

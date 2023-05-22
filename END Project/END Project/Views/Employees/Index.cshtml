@@ -128,7 +128,6 @@
         });
     </script>
 </head>
-
 <body>
     <div class="container-xl">
         <div class="table-responsive">
@@ -136,7 +135,6 @@
                 <div class="d-flex justify-content-between align-items-center">
                     <h4 class="card-title">İşçilər</h4>
                     <a asp-controller="Employees" asp-action="CreateEmployee" class="mdi mdi-account-plus" title="İşçi Yarat" style="margin-right:10px; color:blue !important"></a>
-
                 </div>
                 <table id="MyDataTableEmployee" class="table table-hover " style="padding-top: 30px;">
                     <thead>
@@ -156,10 +154,8 @@
                             <tr>
                                 <td><img style="width:86px;border-radius:68%;height:81px;" src="~/assets/projecphotos/@employee.Image" /></td>
                                 <td style="color: blueviolet !important">@employee.Name @employee.Surname @employee.FatherName</td>
-
                                 <td style="color:blueviolet !important">@employee.Position.PosName</td>
                                 <td style="color: blueviolet !important">@employee.PhoneNumber</td>
-
                                 <td style="color: blueviolet !important">@employee.Salary</td>
                                 <td>
                                     @if (!employee.IsDeactive)
@@ -179,7 +175,6 @@
                                     {
                                         <!-- Button trigger modal -->
                                         <button type="button" class="mdi mdi-close-circle" style="color:red !important" data-toggle="modal" data-target="#employee-@employee.Id">
-                                          
                                         </button>
                                         <!-- Modal -->
                                         <div class="modal fade" id="employee-@employee.Id" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -206,7 +201,6 @@
                                     {
                                         <!-- Button trigger modal -->
                                         <button type="button" class="mdi mdi-playlist-check" style="color:green !important" data-toggle="modal" data-target="#employee-@employee.Id">
-                                          
                                         </button>
                                         <!-- Modal -->
                                         <div class="modal fade" id="employee-@employee.Id" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -230,17 +224,13 @@
                                         </div>
                                     }
                                 </td>
-
                             </tr>
                         }
                     </tbody>
                 </table>
-
             </div>
-
         </div>
     </div>
-  
 </body>
 </html>
 @section scripts{
@@ -250,7 +240,6 @@
             $().DataTable();
         });</script>
 }
-
 @section css{
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.12.1/datatables.min.css" />
 }

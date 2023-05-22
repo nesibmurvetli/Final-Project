@@ -1,0 +1,27 @@
+﻿
+@model AppUser
+    <div class="row" style="margin-bottom: 250px;">
+        <div class="col-md-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4>Ad: @Model.Name</h4>
+                    <h4>İstifadəçi adı:@Model.UserName</h4>
+                    <h4>Telefon nömrəsi: @Model.PhoneNumber</h4>
+                    <h4>Epoçt ünvanı: @Model.Email</h4>
+                    <h4>
+                        Cins:
+                        @if (!@Model.IsMale)
+                        {
+                            <span class="mdi mdi-gender-female" title="Qadın" style="color:black;">Qadın</span>
+                        }
+                        else
+                        {
+                            <span class="mdi mdi-gender-male" title="Kişi" style="color: black;">Kişi</span>
+                        }
+                    </h4>
+                    <a asp-action="Index" class="btn btn-reddit">Geriyə qayıt</a>
+                </div>
+            </div>
+        </div>
+    </div>
+

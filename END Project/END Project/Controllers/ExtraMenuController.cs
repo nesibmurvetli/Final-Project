@@ -1,15 +1,8 @@
 ﻿using END_Project.DAL;
 using END_Project.Helpers;
 using END_Project.Models;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace END_Project.Controllers
 {
     public class ExtraMenuController : Controller
@@ -28,7 +21,6 @@ namespace END_Project.Controllers
         #region Index
         public async Task<IActionResult> Index()
         {
-
             List<ExtraMenu> ExtraMenus = await _db.ExtraMenus.Include(f => f.Fasts).ToListAsync();
             return View(ExtraMenus);
         }
@@ -43,11 +35,9 @@ namespace END_Project.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> CreateExtra(ExtraMenu extra)
         {
-
             if (!ModelState.IsValid)  /*verilən şərtlər ödəmədikdə */
             {
                 return View();
-
             }
             bool isExist = await _db.ExtraMenus.AnyAsync(x => x.Name == extra.Name);   //database de var və yox olduğun yoxlamaq üçün
             if (isExist)
@@ -55,7 +45,6 @@ namespace END_Project.Controllers
                 ModelState.AddModelError("Name", "Artıq yaratmısınız");
                 return View();
             }
-
             await _db.ExtraMenus.AddAsync(extra);
             await _db.SaveChangesAsync();
             return RedirectToAction("Index");
@@ -71,10 +60,6 @@ namespace END_Project.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> CreateFast(Fast fast, int extraId)
         {
-            //if (!ModelState.IsValid)  /*verilən şərtlər ödəmədikdə */
-            //{
-            //    return View();
-            //}
             bool isExist = await _db.Fasts.AnyAsync(x => x.Name == fast.Name);   //database de var və yox olduğun yoxlamaq üçün
             if (isExist)
             {
@@ -136,7 +121,6 @@ namespace END_Project.Controllers
             {
                 return View(dbExtraMenu);
             }
-
             dbExtraMenu.Name = extra.Name;
             await _db.SaveChangesAsync();
             return RedirectToAction("Index");
@@ -146,7 +130,6 @@ namespace END_Project.Controllers
         #region UpdateFast
         public async Task<IActionResult> UpdateFast(int? fastId)
         {
-
             if (fastId == null)  /*id si olmayanın yoxlanılmasınının qarçısını almaq üçün*/
             {
                 return NotFound();
@@ -199,7 +182,6 @@ namespace END_Project.Controllers
             }
 
             dbFasts.Name = fast.Name;
-
             dbFasts.Price = fast.Price;
             dbFasts.Ingradient = fast.Ingradient;
             await _db.SaveChangesAsync();

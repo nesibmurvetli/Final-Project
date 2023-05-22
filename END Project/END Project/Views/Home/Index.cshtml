@@ -1,1 +1,28 @@
-﻿
+﻿@model Cash
+<div class="container-fluid">
+    <!-- Exportable Table -->
+    <div class="row clearfix">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="card " style="padding: 10px 30px;color: #0f1c2c !important">
+                <h2 style="color:  gold; text-align: center">Kassa</h2>
+                <div style="display:flex;justify-content:space-between;font-size:19px;font-weight:300">
+                    <div class="">
+                        <div><span style="color: sandybrown;  font-weight: 600; ">Son dəyişmə vaxtı: </span> @Model.LastModifiedTime.ToString("dd-MM-yyyy  HH:mm")</div>
+                        <div><span style="color: sandybrown;  font-weight: 600;">Son dəyişmə səbəbi: </span> @Model.LastModified</div>
+                        <div><span style=" color: sandybrown; font-weight: 600;"> Miqdar: </span> @Model.LastMotifiedMoney Azn </div>
+                        <div><span style=" color: sandybrown;  font-weight: 600;">Verən Şəxs : </span> @Model.LastModifiedBy </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <div class="info-box-3 bg-red" style=" background-color:  coral !important">
+                                <div class="content">
+                                    <div class="text-center" style="color:white;display:flex;justify-content:center;align-items:center;" data-speed="150" data-fresh-interval="10"> Ümumi Balans </div>
+                                    <div class="number count-to" data-from="0" data-to="@Model.Balance" style="color:white;display:flex;justify-content:center;align-items:center;" data-speed="150" data-fresh-interval="10">@Model.Balance Azn</div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -34,13 +34,11 @@
                                     <label class="form-check-label" for="inlineCheckbox1"><h6>Kişi</h6></label>
                                     <input asp-for="@Model.IsMale" type="radio" name="gender" value="true">
                                     <span asp-validation-for="@Model.IsMale" class="text-danger"></span>
-
                                 </label>
                                 <label class="radio inline">
                                     <label class="form-check-label" for="inlineCheckbox2"><h6>Qadın</h6></label>
                                     <input asp-for="@Model.IsMale" type="radio" name="gender" value="false" checked>
                                     <span asp-validation-for="@Model.IsMale" class="text-danger"></span>
-
                                 </label>
                             </div>
                         }
@@ -52,13 +50,11 @@
                                     <label class="form-check-label" for="inlineCheckbox1"><h6>Kişi</h6></label>
                                     <input asp-for="@Model.IsMale" type="radio" name="gender" value="true" checked>
                                     <span asp-validation-for="@Model.IsMale" class="text-danger"></span>
-
                                 </label>
                                 <label class="radio inline">
                                     <label class="form-check-label" for="inlineCheckbox2"><h6>Qadın</h6></label>
                                     <input asp-for="@Model.IsMale" type="radio" name="gender" value="false">
                                     <span asp-validation-for="@Model.IsMale" class="text-danger"></span>
-
                                 </label>
                             </div>
                         }
@@ -81,7 +77,6 @@
                                 {
                                     <option value="@pos.Id">@pos.PosName</option>
                                 }
-
                             }
                         </select>
                     </div>
@@ -101,7 +96,6 @@
                         <input asp-for="Salary" class="form-control">
                         <span asp-validation-for="Salary" class="text-danger"></span>
                     </div>
-
                     <button type="submit" class="btn btn-primary mr-2">Davam et</button>
                     <a asp-action="Index" class="btn btn-light">Ləğv et</a>
                 </form>
